@@ -1,3 +1,4 @@
+sudo -i
 1- kubectl get ns
 2-kubectl delete ns devops3
 3- kubectl create ns devops3
